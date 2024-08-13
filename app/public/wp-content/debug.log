@@ -8185,3 +8185,5 @@ Stack trace:
 [13-Aug-2024 16:32:29 UTC] PHP Warning:  Undefined property: WP_Block_Template::$media in C:\Users\conta\Local Sites\recettes-app\app\public\wp-content\plugins\create-block-theme\includes\create-theme\theme-templates.php on line 225
 [13-Aug-2024 16:32:29 UTC] PHP Warning:  Undefined property: WP_Block_Template::$media in C:\Users\conta\Local Sites\recettes-app\app\public\wp-content\plugins\create-block-theme\includes\create-theme\theme-templates.php on line 225
 [13-Aug-2024 16:32:29 UTC] PHP Warning:  Undefined property: WP_Block_Template::$media in C:\Users\conta\Local Sites\recettes-app\app\public\wp-content\plugins\create-block-theme\includes\create-theme\theme-templates.php on line 253
+[13-Aug-2024 18:07:27 UTC] Automatic updates starting...
+[13-Aug-2024 18:07:27 UTC] Automatic updates complete.
