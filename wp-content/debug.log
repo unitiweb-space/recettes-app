@@ -8633,3 +8633,38 @@ Stack trace:
 #6 C:\Users\conta\Local Sites\recettes-app\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\conta\\...')
 #7 {main}
   thrown in C:\Users\conta\Local Sites\recettes-app\app\public\wp-content\themes\twenty-twenty-four-child\functions.php on line 66
+[14-Aug-2024 19:48:58 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon_Fields\Carbon_Fields" not found in C:\Users\conta\Local Sites\recettes-app\app\public\wp-content\themes\twenty-twenty-four-child\functions.php:66
+Stack trace:
+#0 C:\Users\conta\Local Sites\recettes-app\app\public\wp-includes\class-wp-hook.php(324): {closure}('')
+#1 C:\Users\conta\Local Sites\recettes-app\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\conta\Local Sites\recettes-app\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\conta\Local Sites\recettes-app\app\public\wp-settings.php(678): do_action('after_setup_the...')
+#4 C:\Users\conta\Local Sites\recettes-app\app\public\wp-config.php(107): require_once('C:\\Users\\conta\\...')
+#5 C:\Users\conta\Local Sites\recettes-app\app\public\wp-load.php(50): require_once('C:\\Users\\conta\\...')
+#6 C:\Users\conta\Local Sites\recettes-app\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\conta\\...')
+#7 {main}
+  thrown in C:\Users\conta\Local Sites\recettes-app\app\public\wp-content\themes\twenty-twenty-four-child\functions.php on line 66
+[14-Aug-2024 19:50:59 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon_Fields\Carbon_Fields" not found in C:\Users\conta\Local Sites\recettes-app\app\public\wp-content\themes\twenty-twenty-four-child\functions.php:66
+Stack trace:
+#0 C:\Users\conta\Local Sites\recettes-app\app\public\wp-includes\class-wp-hook.php(324): {closure}('')
+#1 C:\Users\conta\Local Sites\recettes-app\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\conta\Local Sites\recettes-app\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\conta\Local Sites\recettes-app\app\public\wp-settings.php(678): do_action('after_setup_the...')
+#4 C:\Users\conta\Local Sites\recettes-app\app\public\wp-config.php(107): require_once('C:\\Users\\conta\\...')
+#5 C:\Users\conta\Local Sites\recettes-app\app\public\wp-load.php(50): require_once('C:\\Users\\conta\\...')
+#6 C:\Users\conta\Local Sites\recettes-app\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\conta\\...')
+#7 {main}
+  thrown in C:\Users\conta\Local Sites\recettes-app\app\public\wp-content\themes\twenty-twenty-four-child\functions.php on line 66
+[14-Aug-2024 19:53:00 UTC] PHP Fatal error:  Uncaught Error: Class "Carbon_Fields\Carbon_Fields" not found in C:\Users\conta\Local Sites\recettes-app\app\public\wp-content\themes\twenty-twenty-four-child\functions.php:66
+Stack trace:
+#0 C:\Users\conta\Local Sites\recettes-app\app\public\wp-includes\class-wp-hook.php(324): {closure}('')
+#1 C:\Users\conta\Local Sites\recettes-app\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 C:\Users\conta\Local Sites\recettes-app\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\conta\Local Sites\recettes-app\app\public\wp-settings.php(678): do_action('after_setup_the...')
+#4 C:\Users\conta\Local Sites\recettes-app\app\public\wp-config.php(107): require_once('C:\\Users\\conta\\...')
+#5 C:\Users\conta\Local Sites\recettes-app\app\public\wp-load.php(50): require_once('C:\\Users\\conta\\...')
+#6 C:\Users\conta\Local Sites\recettes-app\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\conta\\...')
+#7 {main}
+  thrown in C:\Users\conta\Local Sites\recettes-app\app\public\wp-content\themes\twenty-twenty-four-child\functions.php on line 66
+[14-Aug-2024 19:55:02 UTC] Automatic updates starting...
+[14-Aug-2024 19:55:03 UTC] Automatic updates complete.
